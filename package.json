@@ -1,6 +1,6 @@
 {
   "name": "xl_jsonp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js 实现jsonp",
   "main": "index.js",
   "scripts": {
