@@ -6,7 +6,7 @@
         ajaxJsonp({
             url:'https://api.map.baidu.com/location/ip',
             time:100000,
-            data:{ak:'t3vLgtin6N7rfKU2oedXfWwlQoB5iFlf'},
+            data:{ak:''},
             jsonp:'ajaxJsonplocation',
             error:function () {
             },
